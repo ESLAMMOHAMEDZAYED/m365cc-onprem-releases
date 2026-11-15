@@ -25,9 +25,11 @@ The result must match the setup program's line in that release's `SHA256SUMS.txt
 In **Platform Admin > Settings > Updates**, set the update address to:
 
 ```
-https://github.com/ESLAMMOHAMEDZAYED/m365cc-onprem-releases/releases/latest/download/latest.json
+https://m365cc.nexentrasolution.com/download/onprem/latest.json
 ```
+
+Use this address, not GitHub's own `latest.json` link: GitHub sends its downloads on to another server, and the installation would then show a setup address that doesn't work.
 
 The installation then says when a newer version is out. It never downloads or installs anything by itself: you download the new setup, check its SHA-256 and run it. An upgrade keeps your data.
 
-Pre-releases are left out of `latest`, so they don't show as update notices.
+The address follows the newest full release, so pre-releases don't show as update notices.
