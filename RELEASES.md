@@ -4,7 +4,8 @@ Every published on-premise release, newest first.
 
 | Version | Date | Status | Setup SHA-256 | Notes |
 |---|---|---|---|---|
-| [1.6.1](https://github.com/ESLAMMOHAMEDZAYED/m365cc-onprem-releases/releases/tag/v1.6.1) (`1.6.1+bd2273a`) | 2026-11-24 | Released (latest) | `ac912a61a65f40ddd70cb9a8c87af4fd4918270d36ad9f3c5ed050ca9196f308` | Release notes are shown in the product (Support > What's New) and on the website. |
+| [1.6.2](https://github.com/ESLAMMOHAMEDZAYED/m365cc-onprem-releases/releases/tag/v1.6.2) (`1.6.2+2a9f06e`) | 2026-11-24 | Released (latest) | `fe4303f1e57c59b234836ecc808900202f2f72c6f611d7e9cc8cac550835c77a` | Release notes are shown in the product (Support > What's New) and on the website. |
+| [1.6.1](https://github.com/ESLAMMOHAMEDZAYED/m365cc-onprem-releases/releases/tag/v1.6.1) (`1.6.1+bd2273a`) | 2026-11-24 | Released | `ac912a61a65f40ddd70cb9a8c87af4fd4918270d36ad9f3c5ed050ca9196f308` | Release notes are shown in the product (Support > What's New) and on the website. |
 | [1.6.0](https://github.com/ESLAMMOHAMEDZAYED/m365cc-onprem-releases/releases/tag/v1.6.0) (`1.6.0+b81bde1`) | 2026-11-24 | Released | `e62b8129a44e07706355bd47ada2a488d3f11d30e2bd1d932f57e14ccd773093` | Release notes are shown in the product (Support > What's New) and on the website. |
 | [1.5.0](https://github.com/ESLAMMOHAMEDZAYED/m365cc-onprem-releases/releases/tag/v1.5.0) (`1.5.0+cc27241`) | 2026-11-23 | Released | `95fadd730a73752fb2baeddab065ce5281f8912e12259a361fdf9ba8ec2aabf9` | Release notes are shown in the product (Support > What's New) and on the website. |
 | [1.4.12](https://github.com/ESLAMMOHAMEDZAYED/m365cc-onprem-releases/releases/tag/v1.4.12) (`1.4.12+e1c26ac`) | 2026-11-22 | Released | `aac4d13e6701aafd3d9be1884742af8c46588d885a1e1fb94b7daff925cfe817` | Release notes are shown in the product (Support > What's New) and on the website. |
